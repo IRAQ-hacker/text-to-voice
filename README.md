@@ -4,18 +4,16 @@ Telegram bot converts text to voice message,
 # about:
 <br>
 
-
-
-
-
 It is a simple bot to convert a message into a voice message** ,
 
 <br>
+
 It also accepts all international languages ​​simply and easily  .
 
 
 # used :
 <br>
+
 *1- *make file with name*  **`user_data.json`** .* 
 <br>
 *2 - **install all library** :*
